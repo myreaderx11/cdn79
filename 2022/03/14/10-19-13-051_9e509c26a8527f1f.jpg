@@ -1,0 +1,508 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<!--This is the new doctype.html include-->
+<head><title>CABINET / Homepage</title><meta name="description" content=""/><meta property="fb:app_id" content="902744986530582"/><meta property="og:url" content="https://cabinetmagazine.org/index.php"/><meta property="twitter:card" content="summary" /><meta property="twitter:url" content="https://cabinetmagazine.org/index.php"/><meta name="twitter:site" content="@cabinetmagazine" /> <meta name="twitter:title" content="Homepage"/><meta property="og:title" content="Homepage"/><meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="cleartype" content="on">
+<link rel="stylesheet" type="text/css" href="/css/es-reset.css">
+<link rel="stylesheet" type="text/css" href="/css/es-selection-sharer.css">
+<link rel="stylesheet" type="text/css" href="/css/es-audio.css?nocache=2021-05-1">
+<link rel="stylesheet" type="text/css" href="/css/es-common.css?nocache=2021-05-02">
+<script type="text/javascript" src="/js/es-jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="/js/es-jquery.tablesorter.js"></script>
+<script type="text/javascript" src="/js/es-jquery.ba-throttle-debounce.min.js"></script>
+<script type="text/javascript" src="/js/es-selection-sharer.js?nocache=2019-11-13"></script>
+<script type="text/javascript" src="/js/es-clamp.min.js"></script>
+<script type="text/javascript" src="/js/es-audio.js?nocache=2021-05-1"></script>
+<script type="text/javascript" src="/js/es-common.js?nocache=2019-12-19"></script>
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="/favicon-128.png" sizes="128x128" />
+<meta name="application-name" content="&nbsp;"/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="/mstile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="/mstile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="/mstile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="/mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="/mstile-310x310.png" />
+</head><body class="general"><div id="preloading"></div><div id="preloader">
+    <img src="/img/es-btn-sound-on.svg" width="1" height="1" alt=""/>
+    <img src="/img/es-btn-mute-on.svg" width="1" height="1" alt=""/>
+    <img src="/img/es-btn-play-on.svg" width="1" height="1" alt=""/>
+    <img src="/img/es-btn-pause-on.svg" width="1" height="1" alt=""/>
+</div>
+
+<div class="dropmenu-bg"></div>
+<div class="nav-bg"></div>
+
+<div class="return-to-top"></div>
+<div id="dropmenu" class="bc-16-1">
+    <div class="container col-4">
+        <div class="col1">
+            <a href="/issues/allissuesbycover.php" class="white">Magazine</a>
+            <a href="/issues/allissuesbycover.php">Issues</a>
+            <a href="/contributors/">Contributors</a>
+            <a href="/archive/">Archive</a>
+            <br>    
+    
+            <a href="/kiosk" class="white">Kiosk</a>
+            <a href="/kiosk">Posts</a>
+            <a href="/kiosk/contributors">Contributors</a>
+            <a href="/kiosk/archive">Archive</a>
+            <br>
+
+            <a href="/books/" class="white">Books</a><br>
+
+            <a href="/events/" class="white">Activities</a>
+            <a href="/events/">Events</a>
+            <a href="/projects/">Projects</a>
+            <a href="/exhibitions/">Exhibitions</a>
+            <br>
+            
+        </div>
+        <div class="col2">
+            <a href="https://secure.cabinetmagazine.org/store" class="white">Shop</a>
+            <br>
+
+            <a href="/subscribe/" class="white">Subscribe</a>
+            <a href="/subscribe/">Individual</a>
+            <a href="/subscribe/institutional.php">Institutional</a>
+            <a href="/subscribe/preview.php">Preview an issue</a>
+            <a href="/subscribe/faq.php">FAQ</a>  
+            <br>  
+
+            <a href="/search.php" class="white">Search</a>
+            <br>
+
+            <a href="https://secure.cabinetmagazine.org/registered_users/manage" class="white">Account</a>
+            <a href="https://secure.cabinetmagazine.org/registered_users/manage">Dashboard</a>
+            <a href="" class="login-link"></a>
+
+            <br>
+
+            <a href="/information/contact.php" class="white">Contact</a>
+            <a href="/information/contact.php">Contact us</a>
+            <a href="/information/visit.php">Visit us</a>
+            <br>
+
+            
+        </div>
+        <div class="col3">
+            <a href="/information/submissions.php" class="white">Submissions</a>
+            <a href="/information/submissions.php" >Guidelines</a>        
+            <br>    
+
+            <a href="/information/about.php" class="white">About</a>
+            <a href="/information/about.php">About us</a>
+            <a href="/information/">About Cabinet</a>
+            <a href="/information/staff.php">Staff</a>
+            <a href="/information/internships.php">Internships</a>
+            <a href="/information/workingatcabinet.php">Jobs</a>
+            <a href="/information/press/">Press about us</a>            
+            <a href="/information/privacy.php">Privacy and legal</a>
+            <br>
+
+            <a href="/information/donate.php" class="white">Support</a>
+            <a href="/information/donate.php">Donate</a>
+            <a href="/information/sponsorships.php">Benefactors</a>
+            <a href="/art/editions.php">Limited editions</a>
+            <br>
+
+            
+        </div>
+        <div class="col4">
+            <a href="/information/advertise.php" class="white">Advertise</a>
+            <a href="/information/advertise.php">Advertise with Cabinet</a>
+            <br>
+
+            <a href="/information/rent.php" class="white">Rentals</a>
+            <a href="/information/rent.php">Rent our event space</a>
+            <br>
+
+            <a href="/information/wheretobuy.php" class="white">Distribution</a>
+            <a href="/information/wheretobuy.php">Where to buy</a>
+            <a href="/information/distribution.php">Distributors</a>
+            <br>
+
+            <span style="color:white">Connect</span><br>
+            <a href="https://www.instagram.com/cabinetmagazine/" target="_blank">Instagram</a>
+            <a href="https://twitter.com/cabinetmagazine" target="_blank">Twitter</a>            
+            <a href="https://facebook.com/CabinetMagazine" target="_blank">Facebook</a>            
+            <a href="/rss/rss.xml" target="_blank">RSS</a>
+            <a href="/information/email_newsletter.php">Join our mailing list</a>
+            <a href="/information/spottings.php">Spottings</a>
+            <br>
+        </div>
+    </div>
+    <div class="container col-2">
+        <div class="col1">
+            <a href="/issues/allissuesbycover.php" class="white">Magazine</a>
+            <a href="/issues/allissuesbycover.php">Issues</a>
+            <a href="/contributors/">Contributors</a>
+            <a href="/archive/">Archive</a>
+            <br>    
+
+            <a href="/kiosk" class="white">Kiosk</a>
+            <a href="/kiosk">Posts</a>
+            <a href="/kiosk/contributors">Contributors</a>
+            <a href="/kiosk/archive">Archive</a>
+            <br>
+    
+            <a href="/books/" class="white">Books</a><br>
+
+            <a href="/events/" class="white">Activities</a>
+            <a href="/events/">Events</a>
+            <a href="/projects/">Projects</a>
+            <a href="/exhibitions/">Exhibitions</a>
+            <br>
+
+            <a href="https://secure.cabinetmagazine.org/store" class="white">Shop</a>
+            <br>
+
+            <a href="/subscribe/" class="white">Subscribe</a>
+            <a href="/subscribe/">Individual</a>
+            <a href="/subscribe/institutional.php">Institutional</a>
+            <a href="/subscribe/preview.php">Preview an issue</a>
+            <a href="/subscribe/faq.php">FAQ</a>
+            <br>
+
+            <a href="/search.php" class="white">Search</a>
+            <br>
+
+            <a href="https://secure.cabinetmagazine.org/registered_users/manage" class="white">Account</a>
+            <a href="https://secure.cabinetmagazine.org/registered_users/manage">Dashboard</a>
+            <a href="" class="login-link"></a>
+            <br>
+
+            <a href="/information/contact.php" class="white">Contact</a>
+            <a href="/information/contact.php">Contact us</a>
+            <a href="/information/visit.php">Visit us</a>
+            <br>
+
+            
+             
+        </div>
+        <div class="col2">
+            <a href="/information/submissions.php" class="white">Submissions</a>
+            <a href="/information/submissions.php" >Guidelines</a>
+            <br>
+            
+            <a href="/information/about.php" class="white">About</a>
+            <a href="/information/about.php">About us</a>
+            <a href="/information/">About Cabinet</a>
+            <a href="/information/staff.php">Staff</a>
+            <a href="/information/internships.php">Internships</a>
+            <a href="/information/workingatcabinet.php">Jobs</a>
+            <a href="/information/press/">Press about us</a>            
+            <a href="/information/privacy.php">Privacy and legal</a>
+            <br>
+
+            <a href="/information/donate.php" class="white">Support</a>
+            <a href="/information/donate.php">Donate</a>
+            <a href="/information/sponsorships.php">Benefactors</a>
+            <a href="/art/editions.php">Limited editions</a>
+            <br>
+        
+            <a href="/information/advertise.php" class="white">Advertise</a>
+            <a href="/information/advertise.php">Advertise with Cabinet</a>
+            <br>
+
+            <a href="/information/rent.php" class="white">Rentals</a>
+            <a href="/information/rent.php">Rent our event space</a>
+            <br>
+
+            <a href="/information/wheretobuy.php" class="white">Distribution</a>
+            <a href="/information/wheretobuy.php">Where to buy</a>
+            <a href="/information/distribution.php">Distributors</a>
+            <br>
+
+            <span style="color:white">Connect</span><br>
+            <a href="https://www.instagram.com/cabinetmagazine/" target="_blank">Instagram</a>
+            <a href="https://twitter.com/cabinetmagazine" target="_blank">Twitter</a>
+            <a href="https://facebook.com/CabinetMagazine" target="_blank">Facebook</a>
+            <a href="/rss/rss.xml" target="_blank">RSS</a>
+            <a href="/information/email_newsletter.php">Join our mailing list</a>
+            <a href="/information/spottings.php">Spottings</a>            
+            <br>
+        </div>
+    </div>
+</div><div id="preloader">
+	<img src="/img/es-search-icon-hover.svg" width="1" height="1" alt=""/>
+	<img src="/img/es-zoom-icon-hover.svg" width="1" height="1" alt=""/>
+	<img src="/img/es-left-arrow-hover.svg" width="1" height="1" alt=""/>
+	<img src="/img/es-right-arrow-hover.svg" width="1" height="1" alt=""/>
+	<img src="/img/es-icon-x-hover.svg" width="1" height="1" alt=""/>
+	<img src="/img/es-down-arrow-hover.svg" width="1" height="1" alt=""/>
+	<img src="/img/es-up-arrow-hover.svg" width="1" height="1" alt=""/>
+	<img src="/img/es-top-hover.svg" width="1" height="1" alt=""/>
+	<img src="/img/es-twitter-hover.svg" width="1" height="1" alt=""/>
+	<img src="/img/es-facebook-hover.svg" width="1" height="1" alt=""/>
+	<img src="/img/es-mail-hover.svg" width="1" height="1" alt=""/>
+	<img src="/img/es-print-hover.svg" width="1" height="1" alt=""/>
+	<img src="/img/es-twitter-hover2.svg" width="1" height="1" alt=""/>
+	<img src="/img/es-facebook-hover2.svg" width="1" height="1" alt=""/>
+	<img src="/img/es-mail-hover2.svg" width="1" height="1" alt=""/>
+	<img src="/img/es-print-hover2.svg" width="1" height="1" alt=""/>
+</div>
+<nav class="main-nav bc-16-1">
+	<div id="nav-icon">
+		<span></span>
+		<span></span>
+		<span></span>
+	</div>
+	<a href="/" class="home">Cabinet</a>
+	<span class="linker"><a href="/issues/allissuesbycover.php" class="link">Magazine</a><a href="/kiosk/" class="link">Kiosk</a><a href="/books/" class="link">Books</a><a href="/events/" class="link">Activities</a><a href="https://secure.cabinetmagazine.org/store" class="link">Shop</a><a href="/subscribe/" class="link">Subscribe</a></span>
+<a class="login-link"></a>
+	<a href="/search.php" class="search"></a>
+</nav><!-- START CONTENT -->
+<script>
+// Set to news_pos=0, if you don't want news/event to move when viewing mobile.
+news_pos=0; 
+</script>
+
+
+<div class="copy homepage listing wrapper">
+    <div class="item current-issue" data-col="1">
+        <img src="/img/es-logo.svg" class="logo">
+        <div class="article">
+            <div class="padding">
+                <h3 class="bc-11-1_5"><a href="/issues/67/index.php" class="link test">CURRENT ISSUE</a></h3>
+                    
+                <a href="/issues/67/index.php" class="link change-border">
+                <img src="/issues/67/Cabinet_67_cover_small_thumbnail.jpg">
+                <h1 class="pm-16-1-24">Issue 67 / Dreams</h1></a>
+                <span class="pm-16-0-26"><p>featuring Brad Bolman, Yanie Fécu, Catherine Hansen, Ara Merjian, Indiana Seresin, Matthew Spellberg, and more</p></span>
+<!--
+                <a class="bc-11-1_5 change-border" href="/issues/67/index.php">AND MORE</a>
+-->
+            </div>
+        </div>
+                <div class="news-events">
+            <div class="padding">
+            <h3 class="bc-11-1_5"><a class="bc-11-1_5" href="/books/the_police_shooting_of_mark_duggan.php">NEWS</a></h3><a class="bc-11-1_5" href="/books/the_police_shooting_of_mark_duggan.php"><span class="bc-16-_5-26"><u>“The Police Shooting of Mark Duggan,” our new book with Forensic Architecture, now available.</u><br /<br></span><div class="bc-11-1_5">READ MORE</div></a>    
+            </div>
+        </div>
+    </div>
+
+    	<div class="item article"  data-col="2">
+		<div class="padding">
+			<h3 class="bc-11-1_5"><a href="/issues/67/" class="link">ISSUE 67</a></h3>
+			
+			<a href="/issues/67/spellberg1.php" class="link change-border">
+			<img src="/issues/67/cabinet_067_spellberg_matthew_thumbnail.jpg">			<h1 class="pm-16-3-24">On Dream Sharing and Its Purpose</h1>
+			<h2 class="pm-16-_1-26"> Matthew  Spellberg</h2>
+			</a>
+			<span class="pm-16-_1-26">
+			<p>Among certain philosophers it is a commonplace that dreams are radically private, that no one can follow you into them. A fragment from Heraclitus distills the problem: “The universe for those who are awake is single and common, while in sleep each person turns aside into a private universe.” Hegel, commenting on this same fragment, says that “the dream is a knowledge of something of which I alone know.” ...</p>
+			</span>
+			<a class="bc-11-1_5 change-border" href="/issues/67/spellberg1.php">READ MORE</a>
+		</div>
+	</div>
+<div class="item article hopper" data-col="1"><div class="padding"></div></div>	<div class="item blog"  data-col="2">
+		<div class="padding">
+			<h3 class="bc-11-1_5">KIOSK / 10 MARCH 2022</h3>
+			
+			<a href="/kiosk/simpson_isabelle_10_march_2022.php" class="link blog-change-border">
+			<img src="/kiosk/cabinet_kiosk_07_march_2022_simpson_isabelle_thumbnail.jpg">			<h1 class="pm-16-3-24">The Crypto-Secessionists</h1>
+			<h2 class="pm-16-_1-26"> Isabelle  Simpson</h2>
+			</a>
+			<span class="pm-16-_1-26">
+			<p>Islands have played a key role in the development of the modern global economy as trading and military outposts, tax havens, and nuclear test sites serving colonial powers. In addition to their status as strategic economic and geopolitical satellites, islands are also special places that “have long been regarded as ideal sites for experimentation, in fiction and in reality, with their straightforward boundedness presumed to provide unambiguous limits to scope, ambition, and (if all goes wrong) contagion.”<sup>1</sup> Today, so-called Small Island Developing States are at the center of the development of central bank–issued digital currency. Their governments’ efforts to capitalize on digital currencies—as well as the accompanying discourse of fast-tracked economic development and democratization of the financial system promoted by the states and the technology and political entrepreneurs who court them—reaffirm the role of islands as sites of experimentation, this time as fintech laboratories. ...</p>
+			</span>
+			<a class="bc-11-1_5 blog-change-border" href="/kiosk/simpson_isabelle_10_march_2022.php">READ MORE</a>
+		</div>
+	</div>
+	<div class="item blog"  data-col="1">
+		<div class="padding">
+			<h3 class="bc-11-1_5">KIOSK /  8 FEBRUARY 2022</h3>
+			
+			<a href="/kiosk/spellberg_matthew_8_february_2022.php" class="link blog-change-border">
+			<img src="/kiosk/cabinet_kiosk_03_february_2022_spellberg_matthew_thumbnail.jpg">			<h1 class="pm-16-3-24">Prisoners of the Dream</h1>
+			<h2 class="pm-16-_1-26"> Matthew  Spellberg</h2>
+			</a>
+			<span class="pm-16-_1-26">
+			<p>During the first pandemic lockdowns, thousands of vivid dreams were suddenly shared across the internet and among friends. Though some of them had to do directly with COVID, many were simply intense and mysterious, in the way dreams often are. Yet for some reason, people felt newly impelled to convey them to others. The dreams were soon compiled into databases, written up in newspaper articles, and eventually integrated into scientific studies. This phenomenon may turn out to be a significant event in the history of the social imagination. For thousands of years, and in many cultures, talking about dreams has been considered hugely important. But in modernity, dreams have been regularly denigrated. ...</p>
+			</span>
+			<a class="bc-11-1_5 blog-change-border" href="/kiosk/spellberg_matthew_8_february_2022.php">READ MORE</a>
+		</div>
+	</div>
+	<div class="item article"  data-col="1">
+		<div class="padding">
+			<h3 class="bc-11-1_5"><a href="/issues/67/" class="link">ISSUE 67</a></h3>
+			
+			<a href="/issues/67/bolman.php" class="link change-border">
+			<img src="/issues/67/cabinet_067_bolman_brad_thumbnail.jpg">			<h1 class="pm-16-3-24">Leftovers / Gazehounds, Greyhounds, and Bloodhounds</h1>
+			<h2 class="pm-16-_1-26"> Brad  Bolman</h2>
+			</a>
+			<span class="pm-16-_1-26">
+			<p>Unlike scent hunters, the greyhound is a “sight” hound, liable to chase anything it sees. “See’st thou the gaze-hound!” wrote poet Thomas Tickell, “how with glance severe / From the close herd he marks the destin’d deer!” This disposition was key to the emergence of greyhound racing, which assumed its modern guise in 1919 when Owen Patrick Smith introduced a mechanical lure called the “electrical rabbit” at a new track in Emeryville, California—the first such venue in the United States. ...</p>
+			</span>
+			<a class="bc-11-1_5 change-border" href="/issues/67/bolman.php">READ MORE</a>
+		</div>
+	</div>
+	<div class="item img-only"  data-col="1" data-default="/homepage_subscribewhite2.jpg" data-hover="/homepage_subscribeorange2.jpg">	
+		<a href="/subscribe/"><img src="/homepage_subscribewhite2.jpg"></a>
+	</div>
+	<div class="item blog"  data-col="1">
+		<div class="padding">
+			<h3 class="bc-11-1_5">KIOSK / 14 OCTOBER 2021</h3>
+			
+			<a href="/kiosk/beil_kim_14_october_2021.php" class="link blog-change-border">
+			<img src="/kiosk/cabinet_kiosk_07_october_2021_beil_kim_thumbnail.jpg">			<h1 class="pm-16-3-24">Street Views</h1>
+			<h2 class="pm-16-_1-26"> Kim  Beil</h2>
+			</a>
+			<span class="pm-16-_1-26">
+			<p>City streets seemed eerily empty in the early years of photography. During minutes-long exposures, carriage traffic and even ambling pedestrians blurred into nonexistence. The only subjects that remained were those that stood still: buildings, trees, the road itself. In one famous image, a bootblack and his customer appear to be the lone survivors on a Parisian boulevard. When shorter exposure times were finally possible in the late 1850s, a British photographer marveled: “Views in distant and picturesque cities will not seem plague-stricken, by the deserted aspect of their streets and squares, but will appear alive with the busy throng of their motley populations.” ...</p>
+			</span>
+			<a class="bc-11-1_5 blog-change-border" href="/kiosk/beil_kim_14_october_2021.php">READ MORE</a>
+		</div>
+	</div>
+	<div class="item article"  data-col="1">
+		<div class="padding">
+			<h3 class="bc-11-1_5"><a href="/issues/67/" class="link">ISSUE 67</a></h3>
+			
+			<a href="/issues/67/seresin.php" class="link change-border">
+			<img src="/issues/67/cabinet_067_seresin_indiana_thumbnail.jpg">			<h1 class="pm-16-3-24">This Land Is Your Land</h1>
+			<h2 class="pm-16-_1-26">Asa Seresin*</h2>
+			</a>
+			<span class="pm-16-_1-26">
+			<p>Ernest Thompson Seton, the English-born pioneer  of outdoor education who cofounded the Boy Scouts  of America, spent his adult life in a juvenile world  of his own invention. The son of a selfish and abusive father, he found escape in playing Indian, a pastime  he later celebrated in the wildly popular 1903 book  <em>Two Little Savages: Being the Adventures of Two Boys Who  Lived as Indians and What They Learned</em>. The book  begins by describing a character with striking similarities to Seton himself: “Yan was much like other twelve-year-old boys in having a keen interest in Indians and in wild life, but he differed from most in this, that he never got over it. Indeed, as he grew older, he found a yet keener pleasure in storing up the little bits of woodcraft and Indian lore that pleased him  as a boy.” ...</p>
+			</span>
+			<a class="bc-11-1_5 change-border" href="/issues/67/seresin.php">READ MORE</a>
+		</div>
+	</div>
+	<div class="item img-only"  data-col="1" data-default="/donate_white_small.gif" data-hover="/donate_orange_small.gif">	
+		<a href="/information/donate.php"><img src="/donate_white_small.gif"></a>
+	</div>
+
+<div class="item advertisement"  data-col="1">
+	<div class="padding">
+		<h3 class="bc-11-1_5">ADVERTISEMENT</h3>
+
+		<a href="https://www.cca.qc.ca/en/events/54731/lab-cult-an-unorthodox-history-of-interchanges-between-science-and-architecture" class="link" target="_blank"><img src="/cabinet_ad_CCA_2018.jpg">
+		<span class="bc-16-1-26">
+			Lab Cult: An unorthodox history of interchanges between science and architecture</br><br>		
+			www.cca.qc.ca
+		</span></a>
+	</div>
+</div>	<div class="item img-only"  data-col="1" data-default="/homepage_rentourspacewhite.jpg" data-hover="/homepage_rentourspaceorange.jpg">	
+		<a href="/information/rent.php"><img src="/homepage_rentourspacewhite.jpg"></a>
+	</div>
+	<div class="item blog"  data-col="1">
+		<div class="padding">
+			<h3 class="bc-11-1_5">KIOSK / 14 SEPTEMBER 2021</h3>
+			
+			<a href="/kiosk/black_monica_14_september_2021.php" class="link blog-change-border">
+			<img src="/kiosk/cabinet_kiosk_9_september_black_monica_thumbnail.jpg">			<h1 class="pm-16-3-24">Melchers’s Ghosts</h1>
+			<h2 class="pm-16-_1-26"> Monica  Black</h2>
+			</a>
+			<span class="pm-16-_1-26">
+			<p>In the spring of 1953, a former Nazi named Anton Melchers, who in the Third Reich had been a newspaper editor, war reporter, and—according to his brother—talented propagandist, was admitted to the university psychiatric clinic in Heidelberg. His brother, a former high-ranking SS officer, brought him there because Melchers had stopped eating. At the clinic, Melchers reported hearing voices that accused him of sexual immorality and intimated that he would be “paraded” in the streets. Melchers was also preoccupied, his brother said, with anxieties about being “rounded up and taken away” as punishment for his National Socialist past. ...</p>
+
+
+			</span>
+			<a class="bc-11-1_5 blog-change-border" href="/kiosk/black_monica_14_september_2021.php">READ MORE</a>
+		</div>
+	</div>
+	<div class="item article"  data-col="1">
+		<div class="padding">
+			<h3 class="bc-11-1_5"><a href="/issues/67/" class="link">ISSUE 67</a></h3>
+			
+			<a href="/issues/67/vandegrift.php" class="link change-border">
+			<img src="/issues/67/cabinet_067_vandegrift_christopher_w_thumbnail.jpg">			<h1 class="pm-16-3-24">Oneirocritica Afro-Americana</h1>
+			<h2 class="pm-16-_1-26"> Christopher W. Vandegrift</h2>
+			</a>
+			<span class="pm-16-_1-26">
+			<p>Popular in Europe since antiquity, books of dream interpretation—commonly referred to as dream dictionaries or, more simply, dream books—were first published in the United States in the latter half of the eighteenth century. Initially indistinguishable from those published contemporaneously in Great Britain, American dream books came into their own during the early to mid-nineteenth century, when publishers of cheap literature began selling dream books that catered to players of policy, an illegal lottery game then sweeping Northeastern cities. ...</p>
+			</span>
+			<a class="bc-11-1_5 change-border" href="/issues/67/vandegrift.php">READ MORE</a>
+		</div>
+	</div>
+
+<div class="item advertisement"  data-col="1">
+	<div class="padding">
+		<h3 class="bc-11-1_5">ADVERTISEMENT</h3>
+
+		<a href="http://www.e-flux.com/" class="link" target="_blank"><img src="/eflux3.jpg">
+		<span class="bc-16-1-26">
+					
+			e-flux.com
+		</span></a>
+	</div>
+</div>	<div class="item img-only"  data-col="1" data-default="/white_book_24.gif" data-hover="/orange_book_24.gif">	
+		<a href="/books/"><img src="/white_book_24.gif"></a>
+	</div>
+	<div class="item blog"  data-col="1">
+		<div class="padding">
+			<h3 class="bc-11-1_5">KIOSK / 27 APRIL 2021</h3>
+			
+			<a href="/kiosk/krolewski_sara_27_april_2021.php" class="link blog-change-border">
+			<img src="/kiosk/cabinet_kiosk_27_april_2021_krolewski_sara_thumb.jpg">			<h1 class="pm-16-3-24">The Enemy as Sociologist</h1>
+			<h2 class="pm-16-_1-26"> Sara  Krolewski</h2>
+			</a>
+			<span class="pm-16-_1-26">
+			<p>Long before Donald Trump was calling for America to be made “great” again, the Nazi propaganda magazine <em>Signal</em> wrote of an American people “which was once great.” “American reality—gone with the wind,” proclaimed the subheading of a 1943 article on the industrialization of agriculture in the United States. Writing in usually flawless English, <em>Signal</em>’s editors criticized what they saw as a degenerated, yet still alarmingly strong, United States: a land of abundance and possibility, now riven by greed, vice, and conformity, and spurred on by ceaseless imperialism. ...</p>
+			</span>
+			<a class="bc-11-1_5 blog-change-border" href="/kiosk/krolewski_sara_27_april_2021.php">READ MORE</a>
+		</div>
+	</div>
+	<div class="item article"  data-col="1">
+		<div class="padding">
+			<h3 class="bc-11-1_5"><a href="/issues/66/" class="link">ISSUE 66</a></h3>
+			
+			<a href="/issues/66/kilston.php" class="link change-border">
+			<img src="/issues/66/cabinet_066_kilston_lyra_thumbnail.jpg">			<h1 class="pm-16-3-24">Dr. Southern California</h1>
+			<h2 class="pm-16-_1-26"> Lyra  Kilston</h2>
+			</a>
+			<span class="pm-16-_1-26">
+			<p><em>Climate is to a country what temperament is to a man—Fate.</em><br /> —Helen Hunt Jackson, <em>Glimpses of Three Coasts</em> </p>
+
+
+<p>In the spring of 1602, Basque merchant Sebastián Vizcaíno was sent on a mission to map the California coast for Spain. Several months later, he and his crew docked in a placid bay he named San Diego and some of them went ashore to explore the foreign terrain. There, they encountered an astonishing woman who looked “more than one hundred and fifty years old.” ... </p>
+			</span>
+			<a class="bc-11-1_5 change-border" href="/issues/66/kilston.php">READ MORE</a>
+		</div>
+	</div>
+	<div class="item blog"  data-col="1">
+		<div class="padding">
+			<h3 class="bc-11-1_5">KIOSK /  1 APRIL 2021</h3>
+			
+			<a href="/kiosk/rothfeld_becca_1_april_2021.php" class="link blog-change-border">
+			<img src="/kiosk/cabinet_kiosk_1_april_2021_rothfeld_becca_thumb.jpg">			<h1 class="pm-16-3-24">Two Lives, Simultaneous and Perfect</h1>
+			<h2 class="pm-16-_1-26"> Becca  Rothfeld</h2>
+			</a>
+			<span class="pm-16-_1-26">
+			<p>By all accounts, Maurice Schérer led an oppressively virtuous life. He never cheated on his wife. He was sober, refusing both drugs and alcohol, and he attended Mass each Sunday. Though he could have afforded a car, he never bought one, and he considered even occasional taxi trips an undue extravagance. In his old age, when he was suffering from painful scoliosis, he continued taking two buses to work in the Montparnasse neighborhood of Paris each morning, then the same two buses back home each night. He cherished quiet enjoyments: classical music, visits to museums, nights at home with his family. He was born in 1920 and died in 2010, but he never owned a telephone. ...</p>
+			</span>
+			<a class="bc-11-1_5 blog-change-border" href="/kiosk/rothfeld_becca_1_april_2021.php">READ MORE</a>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+<!-- END CONTENT -->
+<footer class="bc-16-1">
+	<div class="padding">
+		<a href="https://www.instagram.com/cabinetmagazine/" target="_blank">Instagram</a> |
+		<a href="https://twitter.com/cabinetmagazine" target="_blank">Twitter</a> | 
+		<a href="https://facebook.com/CabinetMagazine" target="_blank">Facebook</a> | 
+		<a href="/rss/rss.xml" target="_blank">RSS</a> <span class="last-pipe">|</span>
+		<a href="/information/email_newsletter.php" class="footer-mailing-list">Join our mailing list</a>
+	</div>
+</footer></body></html>
